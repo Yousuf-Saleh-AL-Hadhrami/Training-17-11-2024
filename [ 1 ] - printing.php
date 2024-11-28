@@ -10,4 +10,6 @@ echo "<br>";
 
 var_dump(print("hello"));
 
+?>
 
+<?= 'hi' ?>
