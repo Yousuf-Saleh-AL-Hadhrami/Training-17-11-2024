@@ -21,3 +21,8 @@ echo "=================================";
 function test(){
     return 'test';
 }
+
+function hello(){
+
+    return 'Hello';
+}
