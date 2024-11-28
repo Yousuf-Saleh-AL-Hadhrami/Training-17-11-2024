@@ -17,3 +17,7 @@ switch($value){
 }
 
 echo "=================================";
+
+function test(){
+    return 'test2';
+}
