@@ -15,3 +15,5 @@ switch($value){
 
     default : echo "Unknown Number";
 }
+
+echo "=================================";
