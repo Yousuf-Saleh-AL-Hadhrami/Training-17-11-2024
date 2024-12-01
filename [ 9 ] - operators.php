@@ -51,3 +51,4 @@ echo "<br>";
 echo --$x;
 
 
+echo date_default_timezone_get();
